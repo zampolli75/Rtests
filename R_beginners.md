@@ -1,4 +1,4 @@
-We believe that the best way to learn to use a new software for data analysis is to work on solving real-world problems. You might find it hard at first, but if you like you solve this kind of problems, it means you're in the right career path.
+We believe that the best way to learn to use a new software for data analysis is to work on solving real-world problems. You might find it hard at first, but if you like to solve this kind of problems, it means you're in the right career path.
 
 # Scenario
 We want to buy an [Alexa smart speaker](
@@ -22,7 +22,7 @@ https://www.amazon.com/s/ref=sr_nr_n_1?fst=as%3Aoff&rh=n%3A9818047011%2Ck%3Asmar
       - Summary statistics (e.g., mean, max, min, median price). 
       - A bar chart of the product prices (we suggest you use [ggplot2](https://github.com/tidyverse/ggplot2))
       - Comments on your analysis and results.
-      - Resources you used extensively to accomplish the challenge. It is entirely fine to use resources you find on the web as guide/inspiration for your work, but we expect you to provide the most important resources you used.
+      - Resources you used extensively to accomplish the challenge. It is entirely fine to use resources you find on the web as guide/inspiration for your work, but we expect you to provide the most important ones you used.
 
 # Software
 
