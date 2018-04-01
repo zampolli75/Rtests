@@ -9,9 +9,9 @@ https://www.amazon.com/s/ref=sr_nr_n_1?fst=as%3Aoff&rh=n%3A9818047011%2Ck%3Asmar
 
 # Output
 
- - A document for presentation purposes. If you use R, we suggest looking into [Rmarkdown](https://rmarkdown.rstudio.com) to produce the report.
- - The code you used for scraping the wepage
- - A dataset with at least: price, product name, and url to the product page
+ - A document for presentation purposes. If you use R, we suggest looking into [Rmarkdown](https://rmarkdown.rstudio.com) to produce the report. However, free to use any other software (e.g., Word) to produce the final report.
+ - The code you used for scraping the wepage.
+ - A dataset with at least: price, product name, and url to the product page. The .csv format is preferred.
  
  
 | Product name                            | price | url                                                                                                                                                                             |
@@ -21,14 +21,14 @@ https://www.amazon.com/s/ref=sr_nr_n_1?fst=as%3Aoff&rh=n%3A9818047011%2Ck%3Asmar
   - The code you used for the analysis/presentation of the results. In the analysis you might want to include:
       - Summary statictics (e.g., mean, max, min, median price). 
       - A barchart of the product prices (we suggest you use [ggplot2](https://github.com/tidyverse/ggplot2))
-      - An explanation of your analysis and results.  However, feel free to use any other software (e.g., Word). 
+      - An explanation of your analysis and results.
 
 
 # Software
 
-Feel free to scrape Amazon prices with the programming language you are most comfortable with. If you have never used any other programming language, we strongly suggest starting with [R](https://www.r-project.org/about.html). In the DDSLab we like it because it helps working on a number of tasks such as data-manipulation, data-visualization, text-mining, statistical analysis, web-scraping, reporting, etc. 
+Feel free to scrape Amazon prices with the programming language you are most comfortable with. If you have never used any other programming language, we strongly suggest starting with [R](https://www.r-project.org/about.html). In the DDSLab we like it because it helps working on a number of tasks such as data-manipulation, data-visualization, text-mining, statistical analysis, web-scraping, reporting, etc.
 
-Sot set up R:
+Follow these steps to set up R:
 
 - Install [R](https://www.r-project.org)
 - Install the [Rstudio IDE](https://www.rstudio.com). Rstudio has many features (e.g., tools for plotting or debugging) that makes working with R much easier. 
